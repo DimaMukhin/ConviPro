@@ -1,0 +1,109 @@
+<resources>
+    <string name="app_name">ConviPro</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="convert">Convert</string>
+    <string name="switchString">Switch</string>
+    <string name="enter_value">Please enter a value to convert</string>
+
+    <string name="length">Length</string>
+    <string name="mass">Mass</string>
+    <string name="speed">Speed</string>
+    <string name="temperature">Temperature</string>
+    <string name="volume">Volume</string>
+    <string name="pressure">Pressure</string>
+    <string name="angle">Angle</string>
+    <string name="frequency">Frequency</string>
+    <string name="energy">Energy</string>
+    <string name="digital_storage">Digital storage</string>
+
+    <string-array name="name_lengths">
+        <item>Millimetre (mm)</item>
+        <item>Centimetre (cm)</item>
+        <item>Metre (M)</item>
+        <item>Kilometre (km)</item>
+        <item>Yard (yd)</item>
+        <item>Foot (ft)</item>
+        <item>Inch (in)</item>
+        <item>Mile (mi)</item>
+    </string-array>
+
+    <string-array name="name_masses">
+        <item>Gram (g)</item>
+        <item>Kilogram (kg)</item>
+        <item>Tonne</item>
+        <item>Pound (lb)</item>
+        <item>Stone</item>
+        <item>Ounce (oz)</item>
+    </string-array>
+
+    <string-array name="name_speeds">
+        <item>Kilometers per hour (km/h)</item>
+        <item>Metre per second (m/s)</item>
+        <item>Miles per hour (mi/h)</item>
+        <item>Foot per second (ft/s)</item>
+        <item>Knot (k, kt)</item>
+    </string-array>
+
+    <string-array name="name_temperatures">
+        <item>Celsius (C)</item>
+        <item>Fahrenheit (F)</item>
+        <item>Kelvin (K)</item>
+    </string-array>
+    
+    <string-array name="name_volumes">
+        <item>Millilitre (ml)</item>
+        <item>Litre</item>
+        <item>Gallon (gal)</item>
+        <item>Quart (qt)</item>
+        <item>Pint (pt)</item>
+        <item>Ounce (fl. oz)</item>
+        <item>Cup</item>
+        <item>Table spoon</item>
+        <item>Cubic metre (cu. m)</item>
+        <item>Cubic foot (cu. ft)</item>
+        <item>Cubic inch (cu. in)</item>
+    </string-array>
+
+    <string-array name="name_pressures">
+        <item>Pascal</item>
+        <item>Atmosphere</item>
+        <item>Bar</item>
+        <item>Pound force per square inch</item>
+        <item>Torr</item>
+    </string-array>
+    
+    <string-array name="name_angles">
+        <item>Second of arc</item>
+        <item>Minute of arc</item>
+        <item>Milliradian</item>
+        <item>Gradian</item>
+        <item>Degree</item>
+        <item>Radian</item>
+    </string-array>
+    
+    <string-array name="name_frequencies">
+        <item>Hertz</item>
+        <item>Kilohertz</item>
+        <item>Megahertz</item>
+        <item>Gigahertz</item>
+    </string-array>
+
+    <string-array name="name_energies">
+        <item>Joule</item>
+        <item>Kilojoule</item>
+        <item>Gram calorie</item>
+        <item>Kilocalorie</item>
+        <item>Watt hour</item>
+        <item>Kilowatt hour</item>
+    </string-array>
+
+    <string-array name="name_digital_storages">
+        <item>Bit</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+    </string-array>
+</resources>
